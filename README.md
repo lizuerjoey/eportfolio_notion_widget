@@ -12,7 +12,7 @@ https://lizuerjoey.github.io/eportfolio_notion_widget/sportsday_badge/exp3/index
 ### Experiment 4
 https://lizuerjoey.github.io/eportfolio_notion_widget/sportsday_badge/exp4/index.html
 ### Colour Palettes
-https://lizuerjoey.github.io/eportfolio_notion_widget/sportsday_badge/colour_palettes/index.html
+https://lizuerjoey.github.io/eportfolio_notion_widget/sportsday_badge/colour_palette/index.html
 
 ## Patch UI
 ### Admin:
